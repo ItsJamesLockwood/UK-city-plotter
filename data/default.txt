@@ -1,0 +1,9 @@
+Default files for Geoplotter:
+- GBplaces.csv: file containing top 100 cities of the UK. Contains:
+  - name
+  - longitude
+  - lattitude
+  - population
+  - type (town/city)
+  
+- ukMERC.png: default map of UK 
